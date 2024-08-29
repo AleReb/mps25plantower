@@ -34,7 +34,7 @@ Puedes adquirir el módulo SEN0233 aquí: [DFRobot SEN0233](https://www.dfrobot.
 
 ## Código fuente
 
-El código fuente se encuentra en el archivo `SEN0233.ino`.
+El código fuente se encuentra en el archivo `plantower_ppm2.5_pms5003st_softwareSerial.ino`.
 
 ## Licencia
 
